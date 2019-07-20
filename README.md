@@ -1,5 +1,5 @@
 # GameModeUIPMMP
-Plugin for change your gamemode in ui
+Plugin for change your gamemode 
 
 
 # DESCRIPTION
